@@ -20,7 +20,7 @@ You can select your song to play on here:
 
 Please change filename's address to change your song.
 
-> NOTICE) No sample music is shared due to copyright.
+> NOTICE) No sample music is shared due to copyright except for given one.
 
 *Tkinter operates with single thread. so timing of playing music or moving notes can be different on every device or PC.*
 _Also points and the amount of remaining notes cannot be printed for same reason._
